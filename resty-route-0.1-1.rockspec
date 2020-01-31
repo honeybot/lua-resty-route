@@ -1,5 +1,5 @@
 package = "resty-route"
-version = "0.1"
+version = "0.1-1"
 source = {
    url = "git+https://github.com/honeybot/lua-resty-route",
    tag = "0.1"
